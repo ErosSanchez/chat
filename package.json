@@ -2,10 +2,10 @@
   "name": "chat",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     
-    "start": "node app.js"
+    "start": "nodemon index"
   },
   "author": "me",
   "license": "ISC",
